@@ -1,0 +1,19 @@
+AccountNumber=12345678
+AccountHolder=Mogale Gk
+Pin=8888
+Balance=10000.0
+
+AccountNumber=22345678
+AccountHolder=Smith TM
+Pin=2002
+Balance=2500
+
+AccountNumber=32345678
+AccountHolder=Martinez PA
+Pin=2020
+Balance=600
+
+AccountNumber=42345678
+AccountHolder=Harvey T
+Pin=3000
+Balance=800
